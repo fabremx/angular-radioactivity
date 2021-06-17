@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppComponent should render correctly the 1`] = `
+<app-root
+  items={[Function Array]}
+  radioactivityService={[Function RadioactivityService]}
+  title={[Function String]}
+>
+  <div>
+    <h1
+      class="title"
+    >
+      Radioactrivity
+    </h1>
+    
+    <div
+      class="item"
+    >
+      <div
+        class="item__name"
+      >
+        Paris (75)
+      </div>
+      <div
+        class="item__legend medium"
+      />
+    </div>
+    <div
+      class="item"
+    >
+      <div
+        class="item__name"
+      >
+        Bordeaux (33)
+      </div>
+      <div
+        class="item__legend high"
+      />
+    </div>
+    <div
+      class="item"
+    >
+      <div
+        class="item__name"
+      >
+        Lyon (69)
+      </div>
+      <div
+        class="item__legend low"
+      />
+    </div>
+    <div
+      class="item"
+    >
+      <div
+        class="item__name"
+      >
+        Lille (59)
+      </div>
+      <div
+        class="item__legend critical"
+      />
+    </div>
+    <div
+      class="item"
+    >
+      <div
+        class="item__name"
+      >
+        Marseille (13)
+      </div>
+      <div
+        class="item__legend medium"
+      />
+    </div>
+    <div
+      class="item"
+    >
+      <div
+        class="item__name"
+      >
+        Nantes (44)
+      </div>
+      <div
+        class="item__legend high"
+      />
+    </div>
+  </div>
+</app-root>
+`;

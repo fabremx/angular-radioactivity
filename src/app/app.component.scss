@@ -1,0 +1,18 @@
+.item {
+    display: flex;
+    margin-top: 10px;
+}
+
+.item__name {
+    width: 100px;
+}
+.item__legend {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+.item__legend.low { background-color: #E0E080 }
+.item__legend.medium { background-color: #E0E040 }
+.item__legend.high { background-color: #E08000 }
+.item__legend.critical { background-color: #FF0000 }
